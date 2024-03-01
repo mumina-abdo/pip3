@@ -1,0 +1,15 @@
+#head{
+    padding-left: 50%;
+    display: flex;
+    gap: 10px;
+    color: black;
+}
+body{
+    background-image: url(/IMAGES/italian-bakery-28379528.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#form{
+    background-size: cover;
+}
